@@ -1,7 +1,7 @@
 # parse_domevrlog
 Python module containing the class TextLog to parse the DomeVRLog files produced by the DomeVR project or TimedLog plugin. 
 
-Uses memmap to speed up the parsing of large files.
+Uses a memory-map to speed up the parsing of large files.
 
 ### Example usage
 ```
